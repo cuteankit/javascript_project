@@ -1,8 +1,7 @@
 # javascript_project
-JavaScript Project
 [ColorChanger](https://cuteankit.github.io/javascript_project/colorChanger/)
 
-[BMI](https://cuteankit.github.io/javascript_project/BMIIndex/)
+[BMIGenerator](https://cuteankit.github.io/javascript_project/BMIGenerator/)
 
 [digitalClock](https://cuteankit.github.io/javascript_project/digitalClock/)
 
